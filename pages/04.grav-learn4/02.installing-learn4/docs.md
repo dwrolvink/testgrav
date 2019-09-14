@@ -22,4 +22,8 @@ Then, you can use the following in your code:
 [`prism classes="language-bash"] git push [/prism]
 ```
 
+to get
+
+[prism classes="language-bash"] git push [/prism]
+
 You'll have to set a different class for different languages. You can find the list of supported classes [on their git](https://github.com/trilbymedia/grav-plugin-prism-highlight#languages-included).
