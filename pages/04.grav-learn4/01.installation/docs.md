@@ -10,10 +10,10 @@ page-toc:
 For this section, I'm mostly following the [official documentation](https://learn.getgrav.org/16/basics/installation) verbatim.
 
 ### Getting the files
-```bash
+[prism classes="language-bash command-line"] 
 cd ~/webroot
 git clone -b master https://github.com/getgrav/grav.git
-```
+[/prism]
 
 ### Running it locally
 bla
