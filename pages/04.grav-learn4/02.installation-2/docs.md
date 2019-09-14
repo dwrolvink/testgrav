@@ -1,5 +1,5 @@
 ---
-title: 'Basic Grav installation 2'
+title: 'Installing & Configuring Learn4'
 taxonomy:
     category:
         - docs
@@ -7,8 +7,11 @@ page-toc:
     active: true
 ---
 
+
+bla
 ### Getting the files
 bla
-### Running it locally
+### Installation
 bla
-
+### Configuration
+bla
