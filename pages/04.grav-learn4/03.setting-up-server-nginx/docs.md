@@ -7,10 +7,11 @@ page-toc:
     active: true
 ---
 
+
+## Setting up the server
 bla
-### Getting the files
+### Run it on nginx
 bla
-### Installation
-bla
-### Configuration
+
+### Add SSL encryption
 bla
