@@ -24,4 +24,7 @@ Then, you can get something like:
 Write-Error "prompt not found!"
 ```
 
+```bash
+git push
+```
 You'll have to set a different class for different languages. You can find the list of supported classes [on their git](https://github.com/trilbymedia/grav-plugin-prism-highlight#languages-included). There's also a lot more options that you can add. Note that this code does not work on GitHub.
