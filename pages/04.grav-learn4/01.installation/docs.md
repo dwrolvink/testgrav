@@ -7,11 +7,27 @@ page-toc:
     active: true
 ---
 
-## Getting the files
+## Setting up a basic Grav installation
 bla
 
-## Running it locally
+### Getting the files
+bla
+### Running it locally
 bla
 
-## Run it on nginx
+## Installing Learn4
+bla
+### Getting the files
+bla
+### Installation
+bla
+### Configuration
+bla
+
+## Setting up the server
+bla
+### Run it on nginx
+bla
+
+### Add SSL encryption
 bla
