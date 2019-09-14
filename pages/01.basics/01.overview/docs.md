@@ -1,13 +1,14 @@
 ---
 title: Overview
-page-toc:
-    active: true
+media_order: 2019-08-15_13-06.png
 taxonomy:
     category:
         - docs
+page-toc:
+    active: true
 ---
 
-# Hoofdstuk 
+![](2019-08-15_13-06.png)
 
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 
