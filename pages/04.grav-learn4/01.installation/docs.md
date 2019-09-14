@@ -7,7 +7,6 @@ page-toc:
     active: true
 ---
 
-
 ### Getting the files
 bla
 ### Running it locally

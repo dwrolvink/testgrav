@@ -7,7 +7,6 @@ page-toc:
     active: true
 ---
 
-
 bla
 ### Getting the files
 bla
