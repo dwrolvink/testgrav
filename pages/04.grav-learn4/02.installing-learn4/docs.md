@@ -19,7 +19,7 @@ You'll need to install a couple of packages to get the Learn4 theme to appear as
 Install Prism Hightlighter via the admin panel, and enable it. Set linenumbers to enabled. I have `Prism Base16 Flat Dark Css` as theme.
 Then, you can use the following in your code:
 ```bash
-[`prism classes="language-bash command-line"] git push [/prism]
+git push
 ```
 to get
 [prism classes="language-bash command-line"] git push [/prism]
