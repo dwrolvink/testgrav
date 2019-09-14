@@ -20,7 +20,7 @@ Install Prism Hightlighter via the admin panel, and enable it. Disable the plugi
 Set linenumbers to enabled. I have `Prism Base16 Flat Dark Css` as theme.
 Then, you can get something like:
 
-``` powershell
+``` javascript
 Write-Error "prompt not found!"
 ```
 
