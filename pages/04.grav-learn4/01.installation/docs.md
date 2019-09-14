@@ -7,8 +7,11 @@ page-toc:
     active: true
 ---
 
-# Getting the files
+## Getting the files
 bla
 
-# Running it locally
+## Running it locally
+bla
+
+## Run it on nginx
 bla
