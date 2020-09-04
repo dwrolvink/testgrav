@@ -6,13 +6,13 @@ process:
 	twig: true
 ---
 
-# Folder permissions
+## Folder permissions
 To set all the files and folders in a certain folder to a certain user:group, use the following:
 ```bash
 chown -R user:group ./
 ```
 
-# Define groups
+## Define groups
 To add a user to a group, use the following:
 ```bash
 usermod -aG additional_groups username
