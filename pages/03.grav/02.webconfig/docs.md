@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## php-fpm
+#### php-fpm
 Settings:
 ```bash
 cd /etc/php-fpm.d/
@@ -17,5 +17,5 @@ Restart php-fpm
 systemctl restart php-fpm
 ```
 
-## Git sync settings
+#### Git sync settings
 Plugins > Git Sync
