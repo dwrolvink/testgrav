@@ -6,5 +6,5 @@ taxonomy:
 
 #### Move files to another computer
 ``` bash
-scp <file location> <server>:<destination_folder>
+scp <file location> <user>:<server>:<destination_folder>
 ```
