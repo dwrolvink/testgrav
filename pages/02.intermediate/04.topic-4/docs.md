@@ -16,7 +16,7 @@ For Manjaro, see below.
 ### Target:
 (Haven't got it working yet)
 ```
-sudo pacman -S tigervnc-server
+sudo pacman -S tigervnc
 vncpasswd
 sudo vi /etc/tigervnc/vncserver.users # add user binding
 sudo cp /lib/systemd/system/vncserver@.service  /etc/systemd/system/vncserver@:1.service
