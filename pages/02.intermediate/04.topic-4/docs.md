@@ -4,15 +4,16 @@ taxonomy:
     category: docs
 ---
 
-# Remote management with VNC
+## Remote management with VNC
 
 See [this link](https://github.com/dwrolvink/Linux/blob/master/CentOS/setup_vnc.md) for CentOS. 
+For Manjaro, see below.
 
-Source: 
+### Source: 
 - Install Remmina
   - Choose the VNC plugin, and optionally the RDP plugin too
 
-Target:
+### Target:
 (Haven't got it working yet)
 ```
 sudo pacman -S tigervnc-server
