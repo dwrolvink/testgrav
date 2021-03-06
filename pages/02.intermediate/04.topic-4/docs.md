@@ -1,5 +1,5 @@
 ---
-title: VNC
+title: Misc
 taxonomy:
     category:
         - docs
