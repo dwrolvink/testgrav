@@ -1,7 +1,8 @@
 ---
 title: VNC
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ## Remote management with VNC
