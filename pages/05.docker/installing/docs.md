@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# Manjaro
+### Manjaro
 ```
 sudo pacman -S docker docker-compose
 sudo systemctl start docker
